@@ -6,7 +6,6 @@
 
 My name is Rubens Lyra. I'm from Brazil and worinkg as Fontend Dvelpor since 2016.
 
-Front-end Jr.
 - HTML5, CSS3, ES6, Typescriptm, Php
 - Estudando Angular, React e React-Native.
 - Buscando colaborar com projetos Front-end.
