@@ -2,7 +2,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubenslyra/)](https://www.linkedin.com/in/rubenslyra/?target=_blank)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10591557/r-lyra/](https://stackoverflow.com/users/10591557/r-lyra?target=_blank)
+
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@rubenslyra/?target=_blank)
 
 My name is Rubens Lyra. I'm from Brazil and worinkg as Fontend Dvelpor since 2016.
