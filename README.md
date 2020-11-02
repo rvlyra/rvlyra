@@ -11,6 +11,7 @@ Front-end Jr.
 - HTML5, CSS3, ES6, Typescriptm, Php
 - Estudando Angular, React e React-Native.
 - Buscando colaborar com projetos Front-end.
+- Sobre mim: sou apaxionado por música (compositor e produtor independente), curto séries de comédia, além de filmes e livros de ficção.
 
 <!--
 [![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rvlyra?tab=followers)
