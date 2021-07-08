@@ -17,7 +17,7 @@ My name is Rubens Lyra. I'm from Brazil and worinkg as Fontend Dvelpor since 201
 <!--
 ![Rubens Lyra's github stats](https://github-readme-stats.vercel.app/api?username=rvlyra&show_icons=true&theme=vue-dark)
 -->
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvlyra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenslyra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
